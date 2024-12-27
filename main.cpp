@@ -22,7 +22,7 @@ size_t WriteCallback(void* data, size_t byte, size_t length, void* storeDataPtr)
 
 int main() {
     //API key
-    const string apiKey = "4UU7A7KYJGKYT726";
+    const string apiKey = "YOUR API KEY";
     //Stock symbol
     const string symbol = "NVDA"; 
 
